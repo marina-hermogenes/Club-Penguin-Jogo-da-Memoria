@@ -297,9 +297,12 @@ function startGame() {
    BOTÕES
    ============================================================ */
 document.getElementById('btn-start').addEventListener('click', startGame);
-document.getElementById('btn-restart').addEventListener('click', startGame);
-document.getElementById('btn-menu').addEventListener('click', () => showScreen('menu'));
-
+document.querySelectorAll('#btn-restart').forEach(btn =>
+  btn.addEventListener('click', startGame)
+);
+document.querySelectorAll('#btn-menu').forEach(btn =>
+  btn.addEventListener('click', () => showScreen('menu'))
+);
 /* ============================================================
    INICIALIZAÇÃO
    ============================================================ */

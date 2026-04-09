@@ -269,8 +269,7 @@ body {
   align-items: center;
   gap: 0;
   pointer-events: all;
-  /* Ligeiramente deslocado para a direita para equilibrar com Herbert à esquerda */
-  margin-left: 12%;
+  margin-left: 0;
   animation: panel-drop 0.7s cubic-bezier(0.34, 1.56, 0.64, 1) both;
 }
 @keyframes panel-drop {
