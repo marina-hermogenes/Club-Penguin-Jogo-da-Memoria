@@ -89,6 +89,13 @@ progweb/
 
 ---
 
+## 🌐 Acesse o Jogo
+
+Você pode jogar diretamente pelo navegador, sem necessidade de instalação:
+
+👉 https://marina-hermogenes.github.io/Club-Penguin-Jogo-da-Memoria/
+
+
 ## 📄 Licença
 
 MIT License.
