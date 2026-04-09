@@ -16,6 +16,11 @@ Jogo da Memória para dois jogadores com temática inspirada no **Club Penguin**
 4. O jogo termina quando **todos os 8 pares** forem encontrados.
 5. Vence o jogador que encontrar **mais pares**!
 
+### Botões do Jogo
+
+- 🔄 **Reiniciar**: reinicia a partida atual, embaralhando as cartas e zerando o placar.
+- 🏠 **Menu**: retorna para a tela inicial do jogo.
+
 ### Personagens
 
 | Jogador   | Pinguim                |
@@ -76,6 +81,8 @@ progweb/
 - 🎯 **Jogo da Memória** completo com 16 cartas (8 pares)
 - 👥 **2 Jogadores** com alternância automática de turnos
 - 🐧 **Pinguins animados** que mudam de pose conforme o estado (jogando/esperando)
+- 🔄 **Botão de reinício rápido** durante a partida
+- 🏠 **Navegação para o menu inicial**
 - ❄️ **Efeito de neve** com partículas na tela inicial
 - 🃏 **Animação de virada** das cartas com efeito 3D (CSS perspective)
 - 🏆 **Tela de resultado** com placar final e destaque do vencedor
@@ -88,4 +95,4 @@ MIT License.
 
 ---
 
-Desenvolvido como atividade prática — **GAC116 Programação Web 2026/1** — Marina Hermógenes
+Desenvolvido como atividade prática — **GAC116 Programação Web 2026/1** — Marina Hermógenes Siqueira.
